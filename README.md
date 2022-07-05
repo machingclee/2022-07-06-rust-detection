@@ -2,4 +2,5 @@
 Modified the faster-RCNN in the past to accept null annotation as input data.
 
 Result:
-<img src="performance_check/1_batch_240.jpg" width="550"/>
+
+<img src="demo.jpg" width="550"/>
